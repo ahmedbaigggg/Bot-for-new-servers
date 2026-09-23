@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "veloxminecraft.play.hosting
-    ",
+    "ip": "veloxminecraft.play.hosting",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
