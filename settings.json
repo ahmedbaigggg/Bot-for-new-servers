@@ -1,12 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "SoloCloudHosting",
+    "username": "AlwaysOnline",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "blockbashersmc.play.hosting",
+    "ip": "veloxminecraft.play.hosting
+    ",
     "port": 25565,
     "version": "1.20.1",
     "try-creative": false
